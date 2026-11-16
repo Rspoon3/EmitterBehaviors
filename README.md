@@ -118,3 +118,7 @@ exported type, member or module name matches anything in the iOS/macOS SDKs.
 - [macOS 10.9 SDK `CAEmitterBehavior.h`](https://github.com/phracker/MacOSX-SDKs/blob/master/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Headers/CAEmitterBehavior.h) (when it was public)
 - [iOS runtime headers](https://github.com/nst/iOS-Runtime-Headers/blob/master/Frameworks/QuartzCore.framework/CAEmitterBehavior.h)
 - [QuartzCore iOS 10.3 → 11.0 API diff](http://codeworkshop.net/objc-diff/sdkdiffs/ios/11.0/QuartzCore.html) (removal from the SDK)
+
+## License
+
+MIT. See [LICENSE](LICENSE).
